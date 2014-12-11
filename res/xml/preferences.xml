@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="State" >       
+        <Preference		android:key="state_1"			android:summary="state_1"			android:title="state_1" />
+        <Preference		android:key="state_1"			android:summary="state_1"			android:title="state_1" />
+        
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Android App</string>
+    <string name="reset">Reset</string>
+    <string name="clear_preferences">Clear config</string>
+    <string name="open_preferences">Config</string>
+    <string name="exit">Exit</string>   
+</resources>
